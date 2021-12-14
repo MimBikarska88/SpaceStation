@@ -1,0 +1,14 @@
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+C:\Users\Mimi\Downloads\01. Structure_Skeleton (5)\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache
